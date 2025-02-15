@@ -16,7 +16,7 @@ WELCOME TO **MANUAL BINNING TECHNIQUES**, A COMPREHENSIVE GUIDE TO IMPLEMENTING 
    ```
 3. RUN THE PYTHON SCRIPTS:
    ```bash
-   PYTHON Manual-Binning-Techniques-Equal-Width-Equal-Frequency-Entropy-Based.ipynb
+   jupyter notebook Manual-Binning-Techniques-Equal-Width-Equal-Frequency-Entropy-Based.ipynb
    ```
 
 ## 🌟 CONTRIBUTING

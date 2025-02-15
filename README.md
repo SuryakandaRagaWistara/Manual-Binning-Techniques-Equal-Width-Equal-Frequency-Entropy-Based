@@ -1,0 +1,1 @@
+# Manual-Binning-Techniques-Equal-Width-Equal-Frequency-Entropy-Based

@@ -1,4 +1,4 @@
-📊 Manual Binning Techniques: Equal-Width, Equal-Frequency & Entropy-Based
+**📊 Manual Binning Techniques: Equal-Width, Equal-Frequency & Entropy-Based**
 
 🚀 Introduction
 
